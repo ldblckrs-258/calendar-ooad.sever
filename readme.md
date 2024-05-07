@@ -1,6 +1,6 @@
 ## Getting started
 1. Create database `mycalendar` in **mysql** then import file `./database/mycalendar.sql`
-   > Note: edit `./config/config.json` follow to your mysql configuration
+   > Note: edit `./config/config.json` according to your mysql configuration
 2. Open terminal in root folder of project, run _this_ to install all dependencies:
 
 ```terminal
