@@ -12,5 +12,5 @@
   npm run dev
 ```
 
-4. Do the same `2` and `3` for front-end project
+4. Do the same `2` and `3` for [front-end project](https://github.com/ldblckrs-258/calendar-ooad)
 5. Open http://localhost:5173/ and enjoy
